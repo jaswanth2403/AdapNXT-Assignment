@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  background-color:  #dddbdb;
+  
+}
+
+.multiple-axis {
+  flex: 7; 
+  padding: 10px; 
+  background-color: white;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ margin-right: 20px;
+ border-radius: 10px;
+ 
+}
+
+.pie-chart {
+  flex: 3; 
+  padding: 10px; 
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  
+}
